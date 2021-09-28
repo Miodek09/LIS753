@@ -17,3 +17,23 @@ p img{
 
 
 }
+
+nav ul{
+  background-color: PaleVioletRed;
+  display: inline-block;
+  padding-left:0;
+  border:1px solid MediumVioletRed;
+
+}
+
+nav ul li{
+
+}
+
+nav ul li a{
+  color: #fffff;
+  text-decoration: none;
+  padding: 8px;
+  border-bottom: 1px solid MediumVioletRed;
+  display: block;
+}
