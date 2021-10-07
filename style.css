@@ -20,7 +20,9 @@ p img{
 
 nav ul{
   background-color: PaleVioletRed;
-  display: inline-block;
+  display: flex;
+  justify-content: center;
+  gap: 4vw;
   list-style: none;
   padding-left:0;
   border: 1px solid MediumVioletRed;
@@ -29,18 +31,22 @@ nav ul{
 
 nav ul li{
 
-}
 
+}
 nav ul li a{
-  color: #ffffff;
+  color: MediumVioletRed;
   text-decoration: none;
-  padding: 8px;
-  border-bottom: 1px solid MediumVioletRed;
+  padding: 12px;
   display: block;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 1px;
 }
 
 nav ul li a:hover{
-  background-color: MediumVioletRed;
+border-bottom: 3px solid MediumVioletRed;
+padding-bottom: 9px;
 }
 
 nav ul li:last-child a{
