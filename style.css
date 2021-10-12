@@ -21,6 +21,28 @@ figure img{
   width:30%;
   height: auto;
 }
+
+figure.main-image {
+  background: PaleVioletRed;
+  border-color: MediumVioletRed;
+  color: #ffffff;
+}
+
+figure.section-image{
+  margin-bottom: 32px;
+  max-width: 320px;
+}
+
+figure.section-image.odd{
+  float: right;
+  margin-left: 20px;
+}
+
+figure.section-image.even{
+  float: left;
+  margin-right: 20px;
+}
+
 p img{
   width:25%;
   height: auto;
