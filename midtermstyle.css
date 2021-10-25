@@ -15,6 +15,7 @@ h1#page-title {
 h2{
   font-size: 32px;
   font-style: oblique;
+  float: right;
 }
 
 p{
