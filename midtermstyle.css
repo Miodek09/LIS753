@@ -26,9 +26,35 @@ h3{
 
 }
 
+h5{
+  font-size: 32px;
+  font-style: oblique;
+  float: right;
+  margin-left: 400px;
+}
+
+h4{
+  margin-right: 400px;
+  font-style: italic;
+  font-size: 32px;
+}
+
+h7{
+  font-size: 32px;
+  font-style: oblique;
+  float: right;
+  margin-left: 400px;
+}
+
+h6{
+  margin-right: 400px;
+  font-style: italic;
+  font-size: 32px;
+}
+
 p{
   font-size: 32px;
-  font-style: normal;
+  font-style: italic;
 }
 
 figure img{
