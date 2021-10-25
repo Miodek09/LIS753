@@ -22,11 +22,6 @@ figure img{
   height: auto;
 }
 
-figure.main-image {
-  background: PaleVioletRed;
-  border-color: MediumVioletRed;
-  color: #ffffff;
-}
 
 figure.section-image{
   margin-bottom: 32px;
