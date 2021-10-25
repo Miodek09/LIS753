@@ -19,10 +19,14 @@ h2{
   margin-left: 400px;
 }
 
+h3{
+  margin-right: 400px;
+
+}
+
 p{
   font-size: 32px;
   font-style: italic;
-  margin-right: 400px;
 }
 
 figure img{
