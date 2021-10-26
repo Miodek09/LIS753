@@ -1,4 +1,6 @@
-
+background{
+  color: gold;
+}
 
 h1#site-title {
   font-size: 72px;
